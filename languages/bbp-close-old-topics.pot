@@ -1,0 +1,88 @@
+# Copyright (C) 2017 Mathieu Sarrasin - Iceable Media
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: BBP Close old Topics 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/bbp-close-old-topics\n"
+"POT-Creation-Date: 2017-10-04 15:28:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: bbp-close-old-topics.php:277
+msgid "Close Old Topics"
+msgstr ""
+
+#: bbp-close-old-topics.php:291
+msgid "Hard Close Old Topics"
+msgstr ""
+
+#: bbp-close-old-topics.php:311
+msgid "1 week"
+msgstr ""
+
+#: bbp-close-old-topics.php:312
+msgid "2 weeks"
+msgstr ""
+
+#: bbp-close-old-topics.php:313
+msgid "1 month"
+msgstr ""
+
+#: bbp-close-old-topics.php:314
+msgid "2 months"
+msgstr ""
+
+#: bbp-close-old-topics.php:315
+msgid "3 months"
+msgstr ""
+
+#: bbp-close-old-topics.php:316
+msgid "6 months"
+msgstr ""
+
+#: bbp-close-old-topics.php:317
+msgid "1 year"
+msgstr ""
+
+#: bbp-close-old-topics.php:331
+msgid "Close topics on-the-fly when they are older than"
+msgstr ""
+
+#: bbp-close-old-topics.php:360
+msgid ""
+"Actually close old topics in the database (instead of merely closing them "
+"on the fly)"
+msgstr ""
+
+#: bbp-close-old-topics.php:377
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BBP Close old Topics"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/iceable/bbp-close-old-topics"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"bbPress plugin to close old topics automatically when they are older than "
+"an admin-defined period of time, from one week to one year. Old topics can "
+"be \"soft-closed\" on the fly only, or actually closed in the database."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mathieu Sarrasin - Iceable Media"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.iceable.com/"
+msgstr ""
