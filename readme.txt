@@ -87,4 +87,4 @@ Some parts of the code of this plugin were inspired by the work of Brandon Allen
 
 * English - default
 
-*Note: This plugin is fully translation-ready. Please contribute your language to the plugin to make it even more useful for all users wworldwide! For translating you can use the ["Poedit Editor"](http://www.poedit.net/) or contribute directly on [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/bbp-close-old-topics)
+*Note: This plugin is fully translation-ready. Please contribute your language to the plugin to make it even more useful for all users worldwide! For translating you can use the [Poedit Editor](http://www.poedit.net/) or contribute directly on [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/bbp-close-old-topics)
