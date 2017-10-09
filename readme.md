@@ -69,7 +69,7 @@ Brilliant! If you don't mind, I would really appreciate it if you left a [review
 ### It's cool, and I think it could be even better
 
 Suggestions are certainly welcome!  
-Pull requests are also more than welcome on [GitHub](https://github.com/iceable/bbp-close-old-topics)
+Pull requests are also more than welcome on [GitHub](https://github.com/iceablemedia/BBP-Close-Old-Topics)
 
 ### I have another question/suggestion
 

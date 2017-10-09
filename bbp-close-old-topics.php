@@ -7,7 +7,7 @@
  * @package           Bbp_Close_Old_Topics
  *
  * Plugin Name:       BBP Close Old Topics
- * Plugin URI:        https://github.com/iceable/bbp-close-old-topics
+ * Plugin URI:        https://github.com/iceablemedia/BBP-Close-Old-Topics
  * Description:       bbPress extension to close old topics automatically when they are older than an admin-defined period of time, from one week to one year. Old topics can be "soft-closed" on the fly only, or actually closed in the database.
  * Version:           1.0.0
  * Author:            Mathieu Sarrasin - Iceable Media
